@@ -1,1 +1,3 @@
-# 42-philoshophers
+# Milestone 3
+
+## philoshophers
